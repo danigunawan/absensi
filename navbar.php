@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<title>Absen</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<body>
+
 <nav class="w3-sidenav w3-white w3-card-2 w3-animate-left" style="display:none">
   <header class="w3-container">
   <h5>Menu</h5>
@@ -26,5 +21,3 @@ function w3_close() {
     document.getElementsByClassName("w3-sidenav")[0].style.display = "none";
 }
 </script>
-</body>
-</html> 

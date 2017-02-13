@@ -4,10 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="datepicker/bootstrap-datetimepicker.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="w3.css">
 <link rel="stylesheet" href="datepicker/bootstrap-datetimepicker.css">
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <body>
 
 <?php
@@ -26,7 +26,7 @@ include('header.php');
 
 <div class="w3-container" >
 
-<! penutup container>
+<!-- penutup container-->
 <div action="form.asp" class="w3-card-4">
   <div class="w3-container w3-deep-orange">
   <center><h2>Presensi Sakit</h2></center>

@@ -2,7 +2,6 @@
 <html>
 <title>Absensi Online</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <body>
 
 <?php
@@ -29,7 +28,7 @@ include('header.php');
       <span onclick="document.getElementById('jabatan').style.display='none'" class="w3-closebtn">x</span>
      <div class="w3-container">
 
-<! penutup container>
+<!--penutup container-->
 
   <div class="w3-container w3-deep-orange">
   <center><h2>Daftar Jabatan</h2></center>
