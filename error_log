@@ -1,0 +1,1091 @@
+[17-Nov-2015 01:50:41 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:41 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:41 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:47 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:47 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:47 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:50 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:50 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:50:50 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:51:01 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:51:01 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 01:51:01 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/absensin/public_html/demo/index.php on line 13
+[17-Nov-2015 06:43:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/lupa_pw.php:8) in /home/absensin/public_html/demo/lupa_pw.php on line 47
+[17-Nov-2015 07:56:16 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 07:56:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 07:56:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 41
+[17-Nov-2015 08:00:35 UTC] PHP Parse error:  syntax error, unexpected 'absensin' (T_STRING) in /home/absensin/public_html/demo/saveimg.php on line 5
+[17-Nov-2015 08:01:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:01:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:01:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 41
+[17-Nov-2015 08:01:55 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:01:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:01:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 41
+[17-Nov-2015 08:02:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:02:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:02:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 41
+[17-Nov-2015 08:04:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:04:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:04:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:04:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:07:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:07:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:07:25 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:25 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:07:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:07:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:09:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:09:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:09:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:13:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:13:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:13:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:13:25 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:13:25 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:13:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:18:59 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:18:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:18:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[17-Nov-2015 08:19:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:19:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 37
+[17-Nov-2015 08:19:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[18-Nov-2015 04:18:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/absensin/public_html/demo/proses_masuk.php on line 19
+[18-Nov-2015 04:18:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/proses_masuk.php:17) in /home/absensin/public_html/demo/proses_masuk.php on line 20
+[18-Nov-2015 04:39:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/proses_pulang.php on line 8
+[18-Nov-2015 04:39:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/proses_pulang.php on line 9
+[18-Nov-2015 07:41:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:41:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:41:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 40
+[18-Nov-2015 07:41:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:41:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:41:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 40
+[18-Nov-2015 07:42:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/absensin/public_html/demo/index2.php on line 53
+[18-Nov-2015 07:42:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/absensin/public_html/demo/index2.php on line 53
+[18-Nov-2015 07:42:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:42:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:42:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:42:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:43:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:43:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:43:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[18-Nov-2015 07:44:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:44:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 38
+[18-Nov-2015 07:44:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 39
+[18-Nov-2015 07:50:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:50:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:50:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 07:50:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:50:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:50:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 07:51:00 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:51:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:51:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 07:58:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:58:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:58:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 07:58:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:58:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 07:58:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:01:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:01:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:01:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:01:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:03:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:03:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:03:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:05:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:05:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:05:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:05:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:05:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:05:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 08:06:27 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:06:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[18-Nov-2015 08:06:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[18-Nov-2015 09:37:38 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 2
+[19-Nov-2015 01:41:26 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 01:42:31 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 01:42:54 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 01:44:38 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 01:48:35 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 01:54:09 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/absensin/public_html/demo/proses_pertanyaan.php on line 25
+[19-Nov-2015 02:21:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/absensin/public_html/demo/proses_pulang.php on line 20
+[19-Nov-2015 04:24:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/absensin/public_html/demo/cekpertanyaan.php on line 28
+[19-Nov-2015 04:24:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/absensin/public_html/demo/cekpertanyaan.php on line 28
+[19-Nov-2015 04:24:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/absensin/public_html/demo/cekpertanyaan.php on line 28
+[19-Nov-2015 04:24:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/absensin/public_html/demo/cekpertanyaan.php on line 28
+[19-Nov-2015 04:47:00 UTC] PHP Fatal error:  Class '1' not found in /home/absensin/public_html/demo/data_karyawan.php on line 41
+[19-Nov-2015 04:47:33 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/absensin/public_html/demo/data_karyawan.php on line 41
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nik' in /home/absensin/public_html/demo/data_karyawan.php on line 45
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'nama' in /home/absensin/public_html/demo/data_karyawan.php on line 46
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'jabatan' in /home/absensin/public_html/demo/data_karyawan.php on line 47
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'alamat' in /home/absensin/public_html/demo/data_karyawan.php on line 48
+[19-Nov-2015 04:48:08 UTC] PHP Warning:  Illegal string offset 'no_hp' in /home/absensin/public_html/demo/data_karyawan.php on line 49
+[19-Nov-2015 05:05:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 05:07:24 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 05:52:07 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 05:57:08 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:03:15 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:29:07 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:32:13 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:32:16 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:32:16 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:32:23 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:00 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:03 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:03 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:04 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:05 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:05 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 06:59:06 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 07:02:25 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 07:12:53 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 09:03:42 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 09:14:08 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home/absensin/public_html/demo/cekpulang.php on line 11
+[19-Nov-2015 09:14:08 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home/absensin/public_html/demo/cekpulang.php on line 11
+[19-Nov-2015 09:14:09 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home/absensin/public_html/demo/cekpulang.php on line 11
+[19-Nov-2015 09:14:10 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home/absensin/public_html/demo/cekpulang.php on line 11
+[19-Nov-2015 09:34:52 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 09:34:52 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 10:24:54 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 10:36:58 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 13:18:45 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 13:30:43 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 22:40:42 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 22:40:56 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 22:42:40 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 22:48:14 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Nov-2015 22:50:29 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 00:20:37 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 00:53:41 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 00:53:43 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 00:53:44 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 00:57:52 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 01:32:58 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 02:48:53 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 05:34:10 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[20-Nov-2015 05:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[20-Nov-2015 07:46:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[20-Nov-2015 08:26:52 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[21-Nov-2015 02:54:42 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'absensi_admin'@'localhost' (using password: YES) in /home/absensin/public_html/demo/rekap_absensi.php on line 80
+[21-Nov-2015 02:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/absensin/public_html/demo/rekap_absensi.php on line 81
+[21-Nov-2015 02:54:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/absensin/public_html/demo/rekap_absensi.php on line 83
+[21-Nov-2015 03:07:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/absensin/public_html/demo/tampil_absensi.php on line 44
+[21-Nov-2015 03:08:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/absensin/public_html/demo/tampil_absensi.php on line 42
+[21-Nov-2015 04:15:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Nov-2015 04:16:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Nov-2015 04:16:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Nov-2015 04:42:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Nov-2015 04:42:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Nov-2015 06:43:53 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[21-Nov-2015 07:44:37 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[21-Nov-2015 08:37:51 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 08:40:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 08:41:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 08:55:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 08:58:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 08:58:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/absensin/public_html/demo/izin_excell.php on line 20
+[21-Nov-2015 08:59:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 09:05:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[21-Nov-2015 09:24:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_sakit.php on line 13
+[21-Nov-2015 09:51:11 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_sakit.php on line 13
+[21-Nov-2015 12:34:20 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[21-Nov-2015 18:00:16 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[23-Nov-2015 03:58:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/absensin/public_html/demo/rekap-excell.php on line 20
+[23-Nov-2015 03:59:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_izin.php on line 13
+[23-Nov-2015 04:00:42 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/absensin/public_html/demo/imageview_sakit.php on line 13
+[23-Nov-2015 06:44:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/absensin/public_html/demo/tampil_absensi.php on line 70
+[23-Nov-2015 06:44:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/absensin/public_html/demo/tampil_absensi.php on line 70
+[23-Nov-2015 06:44:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/absensin/public_html/demo/tampil_absensi.php on line 70
+[23-Nov-2015 06:45:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/absensin/public_html/demo/tampil_absensi.php on line 70
+[23-Nov-2015 06:47:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/absensin/public_html/demo/tampil_absensi.php on line 62
+[23-Nov-2015 06:47:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/absensin/public_html/demo/tampil_absensi.php on line 62
+[23-Nov-2015 07:09:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 21
+[23-Nov-2015 07:09:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 21
+[23-Nov-2015 07:09:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 22
+[23-Nov-2015 07:46:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'absensin'@'localhost' (using password: NO) in /home/absensin/public_html/demo/index2.php on line 23
+[23-Nov-2015 07:46:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/absensin/public_html/demo/index2.php on line 23
+[23-Nov-2015 07:46:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/absensin/public_html/demo/index2.php on line 24
+[23-Nov-2015 09:22:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/ceknama.php on line 14
+[23-Nov-2015 09:22:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/ceknama.php on line 15
+[23-Nov-2015 09:22:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/cekmasuk.php on line 14
+[23-Nov-2015 09:22:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/absensin/public_html/demo/cekmasuk.php on line 15
+[23-Nov-2015 09:22:37 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/presensi_masuk.php on line 11
+[24-Nov-2015 05:02:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[24-Nov-2015 16:37:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[10-Dec-2015 20:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[21-Dec-2015 05:14:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/absensin/public_html/demo/proses_izin.php on line 18
+[21-Dec-2015 05:14:51 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/absensin/public_html/demo/proses_izin.php on line 20
+[06-Jan-2016 09:30:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[06-Jan-2016 09:30:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[06-Jan-2016 09:30:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[06-Jan-2016 09:31:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[09-Jan-2016 04:05:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[10-Jan-2016 12:51:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/absensin/public_html/demo/ceklogin.php:30) in /home/absensin/public_html/demo/ceklogin.php on line 31
+[23-Jan-2016 01:05:21 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[31-Jan-2016 21:55:02 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[06-Feb-2016 11:16:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[06-Feb-2016 11:19:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[06-Feb-2016 11:19:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[06-Feb-2016 11:20:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[06-Feb-2016 11:21:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[06-Feb-2016 11:21:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[06-Feb-2016 11:24:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/proses_sakit.php on line 11
+[08-Feb-2016 21:53:59 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[09-Feb-2016 15:00:06 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[09-Feb-2016 16:52:08 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[10-Feb-2016 08:38:14 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[11-Feb-2016 05:08:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[11-Feb-2016 20:34:59 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[12-Feb-2016 03:59:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[12-Feb-2016 10:42:25 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[12-Feb-2016 23:08:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[13-Feb-2016 19:13:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[13-Feb-2016 19:13:51 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[14-Feb-2016 01:18:23 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[15-Feb-2016 07:47:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[15-Feb-2016 07:47:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[15-Feb-2016 07:57:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[15-Feb-2016 09:50:33 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[15-Feb-2016 09:50:43 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[15-Feb-2016 23:26:28 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[16-Feb-2016 01:17:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[17-Feb-2016 02:39:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[17-Feb-2016 02:40:47 UTC] PHP Notice:  Undefined index: cek_masuk in /home/absensin/public_html/demo/proses_masuk.php on line 6
+[17-Feb-2016 02:41:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[17-Feb-2016 14:32:22 UTC] PHP Notice:  Undefined index: cek_masuk in /home/absensin/public_html/demo/proses_masuk.php on line 6
+[18-Feb-2016 00:52:44 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[18-Feb-2016 00:52:48 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[19-Feb-2016 13:06:49 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[19-Feb-2016 13:06:53 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[22-Feb-2016 05:19:03 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[22-Feb-2016 05:19:10 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[22-Feb-2016 14:56:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[22-Feb-2016 18:26:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[22-Feb-2016 18:26:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/absensin/public_html/demo/ceklogin.php on line 8
+[23-Feb-2016 20:26:27 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[24-Feb-2016 14:29:54 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[26-Feb-2016 07:28:06 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[26-Feb-2016 07:47:32 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[26-Feb-2016 07:47:33 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[26-Feb-2016 09:37:39 UTC] PHP Notice:  Undefined index: cek_masuk in /home/absensin/public_html/demo/proses_masuk.php on line 6
+[28-Feb-2016 08:10:36 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[28-Feb-2016 08:55:01 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[28-Feb-2016 19:20:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[01-Mar-2016 08:48:30 UTC] PHP Notice:  Undefined index: cek_masuk in /home/absensin/public_html/demo/proses_masuk.php on line 6
+[01-Mar-2016 08:50:23 UTC] PHP Notice:  Undefined index: cek_masuk in /home/absensin/public_html/demo/proses_masuk.php on line 6
+[02-Mar-2016 15:32:30 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[04-Mar-2016 09:08:14 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[04-Mar-2016 13:56:50 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[06-Mar-2016 17:06:09 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/absensin/public_html/demo/jabatan.php on line 42
+[06-Mar-2016 22:31:27 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/absensin/public_html/demo/daftar_karyawan.php on line 53
+[08-Mar-2016 07:13:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Mar-2016 07:13:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Mar-2016 07:16:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Mar-2016 07:43:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Mar-2016 07:49:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 10
+[08-Mar-2016 07:49:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/proses_izin.php on line 10
+[08-Mar-2016 07:49:10 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:10 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:10 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 07:49:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 07:49:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 07:49:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 10
+[08-Mar-2016 07:49:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/proses_izin.php on line 10
+[08-Mar-2016 07:49:29 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:29 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:29 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/andaglos/public_html/absen/proses_izin.php on line 11
+[08-Mar-2016 07:49:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 07:49:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 07:49:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/andaglos/public_html/absen/proses_izin.php on line 25
+[08-Mar-2016 08:08:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 29
+[08-Mar-2016 08:09:09 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 29
+[08-Mar-2016 08:12:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 37
+[08-Mar-2016 08:12:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 37
+[08-Mar-2016 08:13:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 37
+[08-Mar-2016 08:15:14 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/andaglos/public_html/absen/proses_izin.php on line 37
+[08-Mar-2016 08:25:17 UTC] PHP Notice:  Undefined variable: name in /home/andaglos/public_html/absen/proses_izin.php on line 14
+[08-Mar-2016 08:25:17 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/andaglos/public_html/absen/proses_izin.php on line 14
+[08-Mar-2016 08:25:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpr78zN3' to 'foto/' in /home/andaglos/public_html/absen/proses_izin.php on line 14
+[08-Mar-2016 08:26:51 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/andaglos/public_html/absen/proses_izin.php on line 14
+[08-Mar-2016 08:28:27 UTC] PHP Notice:  Undefined variable: name in /home/andaglos/public_html/absen/proses_izin.php on line 9
+[08-Mar-2016 08:28:27 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/andaglos/public_html/absen/proses_izin.php on line 9
+[08-Mar-2016 08:28:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmiEG46' to 'foto/' in /home/andaglos/public_html/absen/proses_izin.php on line 9
+[08-Mar-2016 08:41:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Mar-2016 09:54:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:12 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:14 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:14 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:17 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:17 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:18 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:18 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:54:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:54:18 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:20 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:20 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:22 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:23 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:23 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 09:59:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 09:59:29 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 09:59:45 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[14-Mar-2016 09:59:45 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 12
+[14-Mar-2016 10:04:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_masuk.php on line 9
+[14-Mar-2016 10:04:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_masuk.php on line 10
+[14-Mar-2016 10:04:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_masuk.php on line 11
+[14-Mar-2016 10:04:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Mar-2016 10:05:42 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Mar-2016 10:05:42 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[14-Mar-2016 10:05:42 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 12
+[14-Mar-2016 10:11:13 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[14-Mar-2016 10:11:13 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 12
+[14-Mar-2016 10:13:29 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[14-Mar-2016 10:13:29 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 12
+[15-Mar-2016 04:53:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[15-Mar-2016 04:53:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 12
+[15-Mar-2016 08:10:28 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[15-Mar-2016 08:10:28 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[15-Mar-2016 08:14:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:42 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:42 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:43 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:43 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:44 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:44 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:14:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:14:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:56 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:56 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:57 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:57 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:58 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:20:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:20:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:20:58 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:00 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:01 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:01 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:01 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:02 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:02 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:25 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:26 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:26 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:28 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:28 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:28 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:29 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:31 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:31 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:21:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:21:31 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:12 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:12 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:12 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:13 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:14 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:14 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:47:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:47:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:47:29 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[15-Mar-2016 08:56:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'absensin_admin'@'localhost' (using password: YES) in /home/andaglos/public_html/absen/presensi_pulang.php on line 9
+[15-Mar-2016 08:56:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/andaglos/public_html/absen/presensi_pulang.php on line 10
+[15-Mar-2016 08:56:04 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/andaglos/public_html/absen/presensi_pulang.php on line 11
+[16-Mar-2016 01:52:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Mar-2016 02:15:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Mar-2016 02:16:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Mar-2016 02:31:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Mar-2016 02:31:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Mar-2016 08:57:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[17-Mar-2016 07:52:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[17-Mar-2016 09:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Mar-2016 02:21:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Mar-2016 03:00:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Mar-2016 03:03:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Mar-2016 03:05:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Mar-2016 03:36:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[22-Mar-2016 01:01:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[25-Mar-2016 03:27:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:42:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:43:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:45:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:45:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:47:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:51:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:51:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:53:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:57:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:58:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 01:59:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 02:04:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 02:08:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 02:51:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 02:55:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 04:00:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 09:50:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 10:00:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 10:10:28 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[26-Mar-2016 10:12:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[26-Mar-2016 10:12:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 00:57:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 00:59:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 01:01:16 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[28-Mar-2016 01:02:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 01:02:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 01:04:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 01:05:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 01:34:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 09:41:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 09:41:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 09:41:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 09:41:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 09:42:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 10:00:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 10:04:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[28-Mar-2016 10:09:31 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[28-Mar-2016 10:10:44 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[29-Mar-2016 01:05:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[29-Mar-2016 08:33:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[29-Mar-2016 10:10:08 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[29-Mar-2016 11:59:36 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[29-Mar-2016 12:00:46 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[29-Mar-2016 12:14:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[29-Mar-2016 12:15:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 00:59:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 01:03:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 01:46:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 05:44:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 05:44:56 UTC] PHP Notice:  Undefined index: username in /home/andaglos/public_html/absen/ceklogin.php on line 13
+[30-Mar-2016 05:44:56 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/ceklogin.php on line 14
+[30-Mar-2016 09:55:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 10:45:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 10:46:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[30-Mar-2016 10:52:15 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[30-Mar-2016 10:52:57 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[30-Mar-2016 10:53:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[30-Mar-2016 10:53:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_masuk.php on line 3
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_masuk.php on line 4
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_masuk.php on line 5
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[31-Mar-2016 00:43:44 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[31-Mar-2016 00:45:07 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[31-Mar-2016 00:45:07 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[31-Mar-2016 00:59:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[31-Mar-2016 00:59:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[31-Mar-2016 10:49:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[31-Mar-2016 10:50:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[31-Mar-2016 10:51:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[01-Apr-2016 01:09:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[01-Apr-2016 09:51:04 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[01-Apr-2016 11:02:19 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[01-Apr-2016 11:02:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 00:58:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 00:59:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 00:59:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 01:02:39 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[02-Apr-2016 01:02:46 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[02-Apr-2016 01:03:29 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[02-Apr-2016 01:03:30 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[02-Apr-2016 01:03:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 01:04:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[02-Apr-2016 12:09:56 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:09:57 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:01 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:04 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:10 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:13 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:17 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:19 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:21 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[02-Apr-2016 12:10:52 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[03-Apr-2016 13:46:01 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[03-Apr-2016 13:48:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[03-Apr-2016 14:00:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 00:46:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 00:47:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 01:03:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 01:29:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 01:32:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 10:42:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 10:44:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[04-Apr-2016 10:50:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[05-Apr-2016 00:52:09 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[05-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[05-Apr-2016 00:53:02 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[05-Apr-2016 00:56:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 00:59:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 01:01:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 01:02:56 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[05-Apr-2016 01:02:56 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[05-Apr-2016 01:03:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 01:03:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 02:09:42 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[05-Apr-2016 02:11:05 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_masuk.php on line 3
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_masuk.php on line 4
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_masuk.php on line 5
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[05-Apr-2016 02:39:54 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[05-Apr-2016 03:09:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[05-Apr-2016 10:07:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 00:12:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[06-Apr-2016 00:52:57 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[06-Apr-2016 01:07:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 01:10:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 01:15:31 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 01:17:22 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[06-Apr-2016 01:20:18 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 01:20:25 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 01:20:34 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 01:20:36 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 08:55:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 10:55:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 10:57:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[06-Apr-2016 10:59:56 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[06-Apr-2016 11:00:35 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[06-Apr-2016 11:01:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[07-Apr-2016 00:52:45 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[07-Apr-2016 00:53:10 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[07-Apr-2016 00:53:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[07-Apr-2016 00:55:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[07-Apr-2016 00:56:40 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[07-Apr-2016 00:57:23 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[07-Apr-2016 00:57:38 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[07-Apr-2016 09:50:52 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 09:50:54 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 09:50:56 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 10:28:41 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[07-Apr-2016 10:35:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[07-Apr-2016 12:01:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 00:53:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[08-Apr-2016 00:56:02 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[08-Apr-2016 00:56:08 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[08-Apr-2016 00:58:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 00:59:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 00:59:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 02:00:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 02:00:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 10:25:40 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[08-Apr-2016 10:28:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[08-Apr-2016 10:51:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 00:57:12 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 00:57:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 00:57:49 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 00:58:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 00:58:43 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 00:59:02 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 00:59:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 01:00:38 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 01:01:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 01:01:21 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 01:02:13 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[09-Apr-2016 01:03:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 10:07:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 10:22:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 10:27:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[09-Apr-2016 10:28:02 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[11-Apr-2016 00:41:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 01:17:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 01:18:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 08:17:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 09:12:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 10:33:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 10:34:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[11-Apr-2016 10:42:26 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[11-Apr-2016 10:42:27 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[12-Apr-2016 00:42:53 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[12-Apr-2016 00:43:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 00:43:19 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[12-Apr-2016 00:43:20 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[12-Apr-2016 01:00:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 01:04:56 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[12-Apr-2016 01:05:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 01:06:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 01:08:32 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[12-Apr-2016 02:19:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 04:41:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 06:13:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[12-Apr-2016 10:55:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 00:42:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[13-Apr-2016 01:05:48 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[13-Apr-2016 01:06:01 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 01:09:10 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 01:09:11 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 03:11:17 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 04:33:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[13-Apr-2016 10:16:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[13-Apr-2016 10:18:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 10:42:16 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[13-Apr-2016 10:43:12 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[13-Apr-2016 23:53:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[14-Apr-2016 00:32:25 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[14-Apr-2016 00:34:14 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:48:51 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:48:59 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:50:11 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:53:28 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:56:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Apr-2016 00:57:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Apr-2016 00:57:28 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[14-Apr-2016 00:57:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Apr-2016 10:33:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[14-Apr-2016 10:37:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 00:41:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 00:50:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 00:51:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_pulang.php on line 3
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_pulang.php on line 4
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_pulang.php on line 5
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: cek_pulang in /home/andaglos/public_html/absen/proses_pulang.php on line 6
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 9
+[15-Apr-2016 00:52:55 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_pulang.php on line 10
+[15-Apr-2016 01:03:05 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[15-Apr-2016 01:04:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 09:36:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 10:20:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: nik in /home/andaglos/public_html/absen/proses_masuk.php on line 3
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: nama in /home/andaglos/public_html/absen/proses_masuk.php on line 4
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: password in /home/andaglos/public_html/absen/proses_masuk.php on line 5
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[15-Apr-2016 11:28:07 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[16-Apr-2016 00:33:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 00:36:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 00:56:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 10
+[16-Apr-2016 00:56:40 UTC] PHP Notice:  Undefined index: data in /home/andaglos/public_html/absen/proses_masuk.php on line 11
+[16-Apr-2016 01:01:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 01:01:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 09:05:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 09:53:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 10:00:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 10:02:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[16-Apr-2016 10:22:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[17-Apr-2016 23:18:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Apr-2016 00:45:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Apr-2016 00:46:09 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[18-Apr-2016 00:46:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Apr-2016 00:52:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Apr-2016 00:55:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/andaglos/public_html/absen/ceklogin.php on line 8
+[18-Apr-2016 00:56:24 UTC] PHP Notice:  Undefined index: cek_masuk in /home/andaglos/public_html/absen/proses_masuk.php on line 6
+[19-Apr-2016 18:47:05 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'andaglos_kas'@'localhost' (using password: YES) in /home6/biroglos/public_html/absen/db.php on line 9
+[19-Apr-2016 18:51:14 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'andaglos_kas'@'localhost' (using password: YES) in /home6/biroglos/public_html/absen/ceklogin.php on line 8
+[20-Apr-2016 19:00:51 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[20-Apr-2016 19:00:51 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[20-Apr-2016 19:00:51 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[20-Apr-2016 19:00:51 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[20-Apr-2016 19:00:51 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[20-Apr-2016 19:01:12 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[21-Apr-2016 04:48:16 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[21-Apr-2016 04:48:16 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[21-Apr-2016 04:48:16 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[21-Apr-2016 04:48:16 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[21-Apr-2016 04:48:16 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[21-Apr-2016 04:48:18 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[21-Apr-2016 04:48:18 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[21-Apr-2016 04:48:18 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[21-Apr-2016 04:48:18 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[21-Apr-2016 04:48:18 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[22-Apr-2016 03:51:54 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[22-Apr-2016 03:51:54 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[22-Apr-2016 03:51:54 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[22-Apr-2016 03:51:54 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[22-Apr-2016 03:51:54 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[22-Apr-2016 03:51:59 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[23-Apr-2016 00:05:20 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[23-Apr-2016 00:05:20 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[23-Apr-2016 00:05:20 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[23-Apr-2016 00:05:20 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[23-Apr-2016 00:05:20 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[23-Apr-2016 03:54:32 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[23-Apr-2016 03:54:32 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[23-Apr-2016 03:54:32 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[23-Apr-2016 03:54:32 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[23-Apr-2016 03:54:32 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[25-Apr-2016 19:20:42 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[25-Apr-2016 19:20:42 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[25-Apr-2016 19:20:42 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[25-Apr-2016 19:20:42 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[25-Apr-2016 19:20:42 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[26-Apr-2016 07:06:26 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[26-Apr-2016 07:06:26 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[26-Apr-2016 07:06:26 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[26-Apr-2016 07:06:26 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[26-Apr-2016 07:06:26 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[26-Apr-2016 18:36:04 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[26-Apr-2016 18:36:04 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[26-Apr-2016 18:36:04 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[26-Apr-2016 18:36:04 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[26-Apr-2016 18:36:04 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[27-Apr-2016 04:41:24 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/biroglos/public_html/absen/ceknama.php on line 14
+[27-Apr-2016 04:41:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/biroglos/public_html/absen/ceknama.php on line 15
+[27-Apr-2016 04:41:24 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/biroglos/public_html/absen/lihat_status_masuk.php on line 7
+[28-Apr-2016 04:57:06 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[28-Apr-2016 04:57:06 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[28-Apr-2016 04:57:06 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[28-Apr-2016 04:57:06 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[28-Apr-2016 04:57:06 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[28-Apr-2016 04:57:07 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[28-Apr-2016 04:57:07 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[28-Apr-2016 04:57:07 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[28-Apr-2016 04:57:07 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[28-Apr-2016 04:57:07 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[29-Apr-2016 00:51:30 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[29-Apr-2016 00:51:30 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[29-Apr-2016 00:51:30 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[29-Apr-2016 00:51:30 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[29-Apr-2016 00:51:30 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[29-Apr-2016 04:04:31 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[29-Apr-2016 04:04:31 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[29-Apr-2016 04:04:31 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[29-Apr-2016 04:04:31 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[29-Apr-2016 04:04:31 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[30-Apr-2016 22:25:50 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_pulang.php on line 3
+[30-Apr-2016 22:25:50 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_pulang.php on line 4
+[30-Apr-2016 22:25:50 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_pulang.php on line 5
+[30-Apr-2016 22:25:50 America/Denver] PHP Notice:  Undefined index: cek_pulang in /home6/biroglos/public_html/absen/proses_pulang.php on line 6
+[30-Apr-2016 22:25:50 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_pulang.php on line 9
+[01-May-2016 18:42:10 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[01-May-2016 18:42:10 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[01-May-2016 18:42:10 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[01-May-2016 18:42:10 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[01-May-2016 18:42:10 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:23 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:24 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:24 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:24 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:24 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:26 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:26 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:26 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:26 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:26 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:34 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:34 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:34 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:34 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:34 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:35 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: nik in /home6/biroglos/public_html/absen/proses_masuk.php on line 3
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: nama in /home6/biroglos/public_html/absen/proses_masuk.php on line 4
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: password in /home6/biroglos/public_html/absen/proses_masuk.php on line 5
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: cek_masuk in /home6/biroglos/public_html/absen/proses_masuk.php on line 6
+[03-May-2016 05:53:36 America/Denver] PHP Notice:  Undefined index: data in /home6/biroglos/public_html/absen/proses_masuk.php on line 10
