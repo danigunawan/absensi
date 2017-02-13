@@ -4,7 +4,9 @@ $nik = $_POST['nik'];
 $nama = $_POST['nama'];
 $password = $_POST['password'];
 $cek_pulang = $_POST['cek_pulang'];
-
+$tanggal = date('Y-m-d');
+$jam = date('H:i:s');
+$waktu_pulang = date('Y-m-d H:i:s');
 
 $gambar_pulang = $_FILES['data']['name'];
  $tmp  = $_FILES['data']['tmp_name'];
@@ -42,7 +44,7 @@ echo "<meta http-equiv='refresh' content='2; url=presensi_pulang.php'>";
 				
 
 	
-	$db->query(" UPDATE presensi SET jam_pulang=now(),tanggal_pulang=now(),waktu_pulang=now(),gambar_pulang = '$gambar_pulang' where nik='$nik' and jam_pulang IS NULL"); 
+	$db->query(" UPDATE presensi SET jam_pulang= '$jam',tanggal_pulang= '$tanggal',waktu_pulang= '$waktu_pulang',gambar_pulang = '$gambar_pulang' where nik='$nik' and jam_pulang IS NULL"); 
 	
 	$cariselisih = $db->query("SELECT timediff(waktu_pulang,waktu_masuk) as jam_kerja FROM presensi WHERE nik = '$nik' AND jam_kerja IS NULL");
 

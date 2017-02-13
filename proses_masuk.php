@@ -4,7 +4,9 @@ $nik = $_POST['nik'];
 $nama = $_POST['nama'];
 $password = $_POST['password'];
 $cek_masuk = $_POST['cek_masuk'];
-
+$tanggal = date('Y-m-d');
+$jam = date('H:i:s');
+$waktu_masuk = date('Y-m-d H:i:s');
 
 
 $gambar = $_FILES['data']['name'];
@@ -46,7 +48,7 @@ echo "<meta http-equiv='refresh' content='1; url=presensi_masuk.php'>";
 				
 	
 	$db->query(" INSERT INTO  presensi (nik,nama,jam_masuk,tanggal_masuk,waktu_masuk,gambar) values
-('$nik','$nama',now(),now(),now(),'$gambar')");
+('$nik','$nama','$jam','$tanggal','$waktu_masuk','$gambar')");
 	$db->query("UPDATE daftar_karyawan SET status='masuk' WHERE nik='$nik'");
 
 echo "<meta http-equiv='refresh' content='2; url=index.php'>";
