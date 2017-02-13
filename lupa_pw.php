@@ -2,7 +2,7 @@
 <html>
 <title>Absensi Online</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <link rel="stylesheet" href="w3.css">
 <body>
 
@@ -22,7 +22,7 @@ include('header.php');
 
 <div class="w3-container">
 
-<! penutup container>
+<!--penutup container -->
 <div action="form.asp" class="w3-card-4">
   <div class="w3-container w3-deep-orange">
   <h2>Lupa Password</h2>
